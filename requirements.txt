@@ -1,9 +1,16 @@
--e git+https://github.com/errkk/gitpil.git#egg=PIL
-Django==1.6.1
+Django==1.5.5
+Pillow==2.3.1
+South==0.8.4
 dj-database-url==0.2.2
 dj-static==0.0.5
+django-classy-tags==0.5
+django-cms==2.4.3
+django-mptt==0.5.2
+django-sekizai==0.7
 django-toolbelt==0.0.1
 gunicorn==18.0
+html5lib==0.999
 psycopg2==2.5.2
+six==1.6.1
 static==0.4
 wsgiref==0.1.2
