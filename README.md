@@ -1,2 +1,2 @@
-HerokuTest
+DjangoCMS
 ==========
